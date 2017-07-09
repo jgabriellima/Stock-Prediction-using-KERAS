@@ -1,2 +1,2 @@
 # Stock-Prediction-using-KERAS
-Stock prediction using neural networks(keras)
+Stock prediction using Deep learning (keras)
